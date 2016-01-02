@@ -36,7 +36,7 @@ body {
    background-color: #311B92;
  }
  .voting button:not(.voted) .label {
-   visibility: hidden;
+   visibility: visible;
  }
  .voting button .label {
    opacity: 0.87;
